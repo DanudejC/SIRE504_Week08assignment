@@ -1,0 +1,1 @@
+# print("in bioseq.pattern __init__.py")
